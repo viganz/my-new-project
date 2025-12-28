@@ -1,5 +1,7 @@
 # National Housing Registry
 
+Final project for the Building AI course
+
 ## Summary
 
 Describe briefly in 2-3 sentences what your project is about. About 250 characters is a nice length! 
@@ -42,7 +44,8 @@ The NHR acts as a Digital Gatekeeper.
 
 Images will make your README look nice!
 Once you upload an image to your repository, you can link link to it like this (replace the URL with file path, if you've uploaded an image to Github.)
-https://cdn.businessday.ng/2023/10/Housing.png
+https://unsplash.com/photos/a-house-with-a-coin-sitting-on-top-of-it-Ui4cy_D5oZ8
+
 If you need to resize images, you have to use an HTML tag, like this:
 
 
